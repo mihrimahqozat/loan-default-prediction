@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dataset - too large for GitHub, download from Kaggle
+train.csv
+test.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
